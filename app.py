@@ -239,7 +239,7 @@ Do not include any markdown formatting like ```json or ```, just return the raw 
 Subtitle text:
 {subtitle_text}
 """
-    model = genai.GenerativeModel("gemini-2.5-flash")
+    model = genai.GenerativeModel("gemini-3.1-flash-lite")
     response = model.generate_content(prompt)
     
     try:
