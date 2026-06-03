@@ -1,0 +1,102 @@
+{
+    "Scene 1 — Opening Monologue": [
+        {
+            "id": "01",
+            "phrase": "Cut to the chase",
+            "translation": "Перейти сразу к делу",
+            "context": "Used when a character urges another to stop stalling and get to the important point of the conversation. Rooted in old Hollywood editing jargon for skipping to the exciting action sequence."
+        },
+        {
+            "id": "02",
+            "phrase": "On the house",
+            "translation": "За счёт заведения",
+            "context": "Heard in a dimly lit bar scene. The bartender slides a glass across the counter — no charge. The phrase signals an act of goodwill or a subtle bribe, depending on who's asking."
+        },
+        {
+            "id": "03",
+            "phrase": "Bite the bullet",
+            "translation": "Стиснуть зубы / перетерпеть",
+            "context": "A soldier's idiom that migrated into everyday speech. A character uses it to steel themselves before doing something difficult or painful — no literal bullets involved."
+        }
+    ],
+    "Scene 2 — The Confrontation": [
+        {
+            "id": "01",
+            "phrase": "Spill the beans",
+            "translation": "Проболтаться / раскрыть секрет",
+            "context": "The protagonist corners a witness in a narrow alley. The phrase presses for a confession without naming the secret, keeping the dialogue tense and ambiguous for the audience."
+        },
+        {
+            "id": "02",
+            "phrase": "Burn bridges",
+            "translation": "Сжечь мосты / разрушить отношения",
+            "context": "A pivotal moment where a character makes an irreversible decision. The idiom highlights that their choice permanently closes off a path back to their former life or allies."
+        },
+        {
+            "id": "03",
+            "phrase": "Hit below the belt",
+            "translation": "Удар ниже пояса / нечестный приём",
+            "context": "Borrowed from boxing, this surfaces in a heated argument where one party says something intentionally hurtful and unfair. The phrase signals a moral line has been crossed."
+        }
+    ],
+    "Scene 3 — The Turning Point": [
+        {
+            "id": "01",
+            "phrase": "The last straw",
+            "translation": "Последняя капля (переполнившая чашу)",
+            "context": "Derived from 'the straw that broke the camel's back.' A character finally snaps after a long series of setbacks — this particular event, however small, tips the balance."
+        },
+        {
+            "id": "02",
+            "phrase": "Read between the lines",
+            "translation": "Читать между строк",
+            "context": "One character hands another a letter. The advice to 'read between the lines' signals the message carries a hidden meaning beyond its literal words, a common device in mystery and thriller genres."
+        },
+        {
+            "id": "03",
+            "phrase": "Turn over a new leaf",
+            "translation": "Начать с чистого листа",
+            "context": "A moment of quiet resolve — no dramatic music, just a close-up. The phrase (originally about turning pages in a book) signals a character's sincere intention to change their ways."
+        }
+    ],
+    "Scene 4 — The Climax": [
+        {
+            "id": "01",
+            "phrase": "Throw caution to the wind",
+            "translation": "Действовать безрассудно / рискнуть всем",
+            "context": "At the peak of tension the protagonist abandons careful planning and acts on instinct. The idiom conveys both recklessness and courage in a single breath."
+        },
+        {
+            "id": "02",
+            "phrase": "Pull the plug",
+            "translation": "Поставить точку / прекратить",
+            "context": "Originally medical slang. Here a decision-maker uses it to terminate a risky operation. The clinical coldness of the phrase contrasts with the emotional stakes on screen."
+        },
+        {
+            "id": "03",
+            "phrase": "Between a rock and a hard place",
+            "translation": "Между молотом и наковальней",
+            "context": "The protagonist faces two equally bad options with no escape route. The idiom is ancient — Homer used a similar concept in the Odyssey — and its weight suits the scene's gravity perfectly."
+        }
+    ],
+    "Scene 5 — The Resolution": [
+        {
+            "id": "01",
+            "phrase": "Let the dust settle",
+            "translation": "Дать улечься страстям",
+            "context": "After the storm of action, a wise mentor counsels patience. The phrase evokes the literal image of dust rising and slowly sinking back to earth — a breathing space before next steps."
+        },
+        {
+            "id": "02",
+            "phrase": "Bury the hatchet",
+            "translation": "Закопать топор войны / примириться",
+            "context": "A Native American peace tradition that entered English idiom. Two estranged characters share an understated handshake — this phrase captures the quiet end of their long rivalry."
+        },
+        {
+            "id": "03",
+            "phrase": "Come full circle",
+            "translation": "Вернуться к истокам / замкнуть круг",
+            "context": "The film's closing image mirrors its opening shot intentionally. A character uses this phrase to acknowledge the journey has brought them back — changed — to where it all began."
+        }
+    ]
+}
